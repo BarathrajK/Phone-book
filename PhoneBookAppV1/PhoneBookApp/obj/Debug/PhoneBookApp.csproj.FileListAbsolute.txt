@@ -1,0 +1,7 @@
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\bin\Debug\PhoneBookApp.exe.config
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\bin\Debug\PhoneBookApp.exe
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\bin\Debug\PhoneBookApp.pdb
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.AssemblyReference.cache
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.CoreCompileInputs.cache
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\obj\Debug\PhoneBookApp.exe
+E:\C#-Practice\PhoneBookAppV1\PhoneBookApp\obj\Debug\PhoneBookApp.pdb
